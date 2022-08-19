@@ -1,0 +1,56 @@
+body {
+    font-family: 'Playfair Display', serif;
+}
+
+.navigation li {
+    display: inline-block;
+    margin-right: 100px;
+    margin-top: 71px;
+}
+
+.navigation li:first-child {
+    margin-left: 315px;
+}
+
+.navigation li:last-child {
+    margin-right: 330px;
+}
+
+.navigation a {
+    color: #7D7D7D;
+    text-decoration: none;
+    text-transform: uppercase;
+}
+
+.navigation a:hover {
+    color: #03A9F4;
+}
+
+.photoblock {
+    width: 420px;
+    padding: 92px 62px 126px 148px; 
+}
+
+.photoblock h3 {
+    color: #B4AD9E;
+    font-family: "Ubuntu";
+    font-size: 14px;
+    margin-top: 62px;
+}
+
+.photoblock h2 {
+    color: #626262;
+    font-size: 30px;
+    font-weight: 400;
+}
+
+.button-1 {
+    border: 1px solid #626262;
+    padding: 20px 49px 21px 49px;
+    font-family: "Playfair Display";
+    margin: 0 577px 87px 555px;
+}
+
+
+
+
